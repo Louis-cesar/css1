@@ -1,0 +1,21 @@
+.name {
+  text-align: center;
+  font-size: 3em;
+}
+
+.color-green {
+  background-color: green;
+  color: white;
+}
+
+.title {
+  font-family: Arial;
+}
+
+.color-skyblue {
+  color: skyblue;
+}
+
+.decoration {
+  text-decoration-line: line-through;
+}
